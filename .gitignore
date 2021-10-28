@@ -23,5 +23,9 @@ pip-log.txt
 # Translations
 *.mo
 
+# Virtual Enviornment
+venv
+.idea
+
 # Mr Developer
 .mr.developer.cfg
